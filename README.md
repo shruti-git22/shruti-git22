@@ -3,4 +3,4 @@
 💬 Let’s collaborate on data-driven projects and impactful open-source contributions.  
 🌱 Currently exploring Power BI, Advanced SQL, and Cloud Analytics.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shrutidhumal)  
-📄 View my [Resume](https://github.com/shruti-git22/Shruti_Dhumal/blob/main/Shruti_Dhumal.pdf)  
+📄 View my [Resume]()  
